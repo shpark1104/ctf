@@ -1,2 +1,2 @@
 #include <stdlib.h>
-int main(){system("flag");return 0;}
+int main(){system("/flag");return 0;}
